@@ -15,8 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table width="100%">
+<tr>
+  <td>
+  
+  [![Tedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbachvarova)](https://github.com/tbachvarova/)
+</td>
 
-[![Tedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbachvarova)](https://github.com/tbachvarova/)
-
-
+<td>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbachvarova)](https://github.com/tbachvarova/)
+  
+  </td>
+  </tr>
+  </table>
