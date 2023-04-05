@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <td>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbachvarova)](https://github.com/tbachvarova/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbachvarova&langs_count=10)](https://github.com/tbachvarova/)
   
   </td>
   </tr>
