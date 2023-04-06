@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <table width="100%">
 <tr>
-  <td>
+  <td valign="top">
   
   [![Tedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbachvarova)](https://github.com/tbachvarova/)
 </td>
