@@ -3,6 +3,9 @@
 If you are a Developer, never minds which language you'll use to write  ...
 
 
+If there is an issue, then if we are technically evaluated enough to build the solution => the solution exists => I'll find it !
+
+
 <!--
 **tbachvarova/tbachvarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
