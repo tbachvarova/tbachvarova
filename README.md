@@ -3,7 +3,15 @@
 If you are a Developer, never minds which language you'll use to write  ...
 
 
-If there is an issue, then if we are technically evaluated enough to build the solution => the solution exists => I'll find it !
+If ( there is an issue) <br>
+then { <br>
+  if we are technically evaluated enough to build the solution <br>
+  =>  <br>
+  the solution exists <br>
+  => I'll find it ! <br>
+  } <br>
+  else  <br>
+  { we need some more time for research... } <br>
 
 
 <!--
