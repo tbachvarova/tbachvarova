@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+If you are a Developer, never minds which language you'll use to write  ...
+
+
 <!--
 **tbachvarova/tbachvarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
