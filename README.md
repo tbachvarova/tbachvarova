@@ -2,6 +2,7 @@
 
 If you are a Developer, never minds which language you'll use to write  ...
 
+Test with new Text. :)
 
 If ( there is an issue) <br>
 then { <br>
