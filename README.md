@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you are a Developer, never minds which language you'll use to write  ...
+🌱 If you are a Developer, never minds which language you'll use to write  ...
 
 If ( there is an issue) <br>
 then { <br>
@@ -12,6 +12,10 @@ then { <br>
   { we need some more time for research... } <br>
 else <br>
    have fun and learn ....
+<br><br>
+⚡   Algorithm (noun.) <br>
+"Word used by programmers when... <br>
+they do not want to explain what they did."<br><br><br>
 
 <!--
 **tbachvarova/tbachvarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
